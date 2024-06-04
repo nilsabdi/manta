@@ -22,7 +22,7 @@ import (
   "os"
 
   "github.com/dotabuff/manta"
-  "github.com/dotabuff/manta/dota"
+  "github.com/nilsabdi/manta/dota"
 )
 
 func main() {
